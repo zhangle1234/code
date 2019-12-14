@@ -7,4 +7,9 @@ package com.company.test;
  */
 public class Test {
  //添加了注释
+
+    @org.junit.Test
+    public void gitTest(){
+        System.out.println("*************git测试中****************");
+    }
 }
